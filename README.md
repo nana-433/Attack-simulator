@@ -23,7 +23,6 @@ A cybersecurity simulator using Python to generate system logs, mimic brute-forc
 4. System outputs security alerts + summary report
 
 # Example Output
-text
 - LOW ALERT: Suspicious activity from 192.168.1.10 (3 fails)
 - MEDIUM ALERT: Possible brute force from 10.0.0.5 (5 fails)
 - HIGH ALERT: ACTIVE ATTACK DETECTED from 172.16.0.2 (7 fails)
@@ -39,7 +38,6 @@ Built to demonstrate foundational skills in:
 Built by Mirianta — aspiring cybersecurity analyst
 
 # Sample Detection Output
-- text
 HIGH ALERT: ACTIVE ATTACK DETECTED from 192.168.1.10
 
 # Purpose
