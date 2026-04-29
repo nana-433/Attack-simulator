@@ -1,4 +1,8 @@
-# 🔐 Cyber Lab Simulator
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Security](https://img.shields.io/badge/SOC-Lab%20Project-red)
+
+# Cyber Lab Simulator
 A cybersecurity simulator using Python to generate system logs, mimic brute-force attacks and raise the alarm based on rules.
 
 # Objective
